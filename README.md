@@ -83,8 +83,4 @@ Royal Academy of Dance, Reino Unido
 - Español (Nativo)
 - Inglés (B2)
 
----
-
-Este formato está optimizado para ATS (sistemas de selección automáticos), asegurando que se detecten las palabras clave esenciales para roles en **DevOps, administración de sistemas y ciberseguridad**. Además, mantiene una estructura clara y atractiva para los reclutadores humanos.
-
 
