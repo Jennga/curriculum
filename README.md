@@ -1,5 +1,4 @@
-*![curriculum](https://github.com/user-attachments/assets/ea12e80b-6ac5-47a2-a71c-30fec7932685)
-<img src="https://github.com/user-attachments/assets/ea12e80b-6ac5-47a2-a71c-30fec7932685" alt="curriculum" width="300">
+<img src="https://github.com/user-attachments/assets/ea12e80b-6ac5-47a2-a71c-30fec7932685" alt="curriculum" width="100">
 #**Jennifer Galván**
 
 **Teléfono:** 603 04 14 85  |  **Email:** jenngalbe@gmail.com  |  **Ubicación:** Granada, España  
