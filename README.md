@@ -1,8 +1,9 @@
 *![curriculum](https://github.com/user-attachments/assets/ea12e80b-6ac5-47a2-a71c-30fec7932685)
-*Jennifer Galván**
+<img src="https://github.com/user-attachments/assets/ea12e80b-6ac5-47a2-a71c-30fec7932685" alt="curriculum" width="300">
+#**Jennifer Galván**
 
 **Teléfono:** 603 04 14 85  |  **Email:** jenngalbe@gmail.com  |  **Ubicación:** Granada, España  
-**LinkedIn:** https://www.linkedin.com/in/jennifer-galv%C3%A1n-bejarano-b68467318/  |  **GitHub:** https://github.com/Jennga
+**LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/jennifer-galv%C3%A1n-bejarano-b68467318/)  |  **GitHub:** [jennga](https://github.com/Jennga)
 
 ---
 
