@@ -6,14 +6,16 @@
 ---
 
 ### **Perfil Profesional**
-Administradora de sistemas y especialista en DevOps con experiencia en ciberseguridad, despliegue de infraestructuras en la nube y gestión de sistemas Linux y Windows. Apasionada por la optimización de procesos, la automatización y la implementación de soluciones tecnológicas innovadoras. Capacidad demostrada para la resolución de problemas, la gestión del tiempo y el trabajo en equipo.
+Administradora de sistemas, DevOps y Ciberseguridad, despliegue de infraestructuras en la nube y gestión de sistemas Linux y Windows. Apasionada por la optimización de procesos, la automatización y la implementación de soluciones tecnológicas innovadoras. Capacidad demostrada para la resolución de problemas, la gestión del tiempo y el trabajo en equipo.
 
 ---
 
 ### **Experiencia Profesional**
 
 #### **Administrador de Operaciones de Sistemas**  
-**NEVATEC** | 2022 - Actualidad  
+**NEVATEC** | 2022 - 2022
+
+**Proyectos** | 2022 - Actualidad
 - Despliegue y mantenimiento de servicios en AWS.
 - Configuración de servidores en Apache2 y administración de hosting.
 - Implementación de alta disponibilidad en servidores y configuración de redes (IP estáticas, DNS).
