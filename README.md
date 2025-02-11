@@ -25,7 +25,7 @@ Administradora de sistemas, DevOps y Ciberseguridad, despliegue de infraestructu
 - Desarrollo y despliegue de contenedores con Docker y Kubernetes.
 - Automatización de procesos con Jenkins y Git.
 - Manejo de bases de datos MySQL y WordPress.
-- Implementación de herramientas forenses para análisis de sistemas (Volatility, FTK Imager, Arcenal).
+- Implementación de herramientas forenses para análisis de sistemas (Volatility, FTK Imager, Arcenal entre otros...).
 
 #### **Fundadora y Coordinadora Académica**  
 **Estudio Versátil (México, Puebla)** | 2006 - 2022  
@@ -48,11 +48,13 @@ Administradora de sistemas, DevOps y Ciberseguridad, despliegue de infraestructu
 ### **Habilidades Técnicas**
 
 - **Administración de Sistemas:** Linux, Windows, Active Directory, OpenLDAP.
-- **Infraestructura en la Nube:** AWS, VirtualBox, LAMP.
+- **SCRIPT:** Python, bash, JSON.
+- **Infraestructura en la Nube:** AWS, VirtualBox, LAMP, VmWare.
 - **Contenedores y Automatización:** Docker, Kubernetes, Jenkins, Git.
 - **Desarrollo Web:** HTML, CSS, JavaScript, Next.js, PHP.
 - **Bases de Datos:** MySQL.
 - **Seguridad Informática y Análisis Forense:** Volatility, FTK Imager, Arcenal.
+- **Hacking ético:** Metasploit, Escalada de privilegios, criptografía.
 - **Gestores de Contenidos:** WordPress.
 
 ---
