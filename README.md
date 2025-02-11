@@ -1,7 +1,7 @@
 **Jennifer Galván**
 
 **Teléfono:** 603 04 14 85  |  **Email:** jenngalbe@gmail.com  |  **Ubicación:** Granada, España  
-**LinkedIn:** [Perfil LinkedIn]  |  **GitHub:** [Perfil GitHub]  
+**LinkedIn:** https://www.linkedin.com/in/jennifer-galv%C3%A1n-bejarano-b68467318/  |  **GitHub:** https://github.com/Jennga 
 
 ---
 
