@@ -17,6 +17,7 @@ Administradora de sistemas, DevOps y especialista en ciberseguridad. Experiencia
 #### **Administrador de Operaciones de Sistemas**  
 **NEVATEC** | 2022 - 2022
 
+---
 **Proyectos** | 2022 - Actualidad
 - Despliegue y mantenimiento de servicios en AWS.
 - Configuración de servidores en Apache2 y administración de hosting.
