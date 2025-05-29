@@ -8,7 +8,7 @@
 ---
 
 ### **Perfil Profesional**
-Administradora de sistemas, DevOps y Ciberseguridad, despliegue de infraestructuras en la nube y gestión de sistemas Linux y Windows. Apasionada por la optimización de procesos, la automatización y la implementación de soluciones tecnológicas innovadoras. Capacidad demostrada para la resolución de problemas, la gestión del tiempo y el trabajo en equipo.
+Administradora de sistemas, DevOps y especialista en ciberseguridad. Experiencia en despliegue de infraestructuras en la nube y gestión de sistemas Linux y Windows. Apasionada por la automatización, optimización de procesos y la implementación de soluciones tecnológicas. Capacidad demostrada en resolución de problemas, organización del tiempo y trabajo en equipo.
 
 ---
 
@@ -26,14 +26,6 @@ Administradora de sistemas, DevOps y Ciberseguridad, despliegue de infraestructu
 - Automatización de procesos con Jenkins y Git.
 - Manejo de bases de datos MySQL y WordPress.
 - Implementación de herramientas forenses para análisis de sistemas (Volatility, FTK Imager, Arcenal entre otros...).
-
-#### **Fundadora y Coordinadora Académica**  
-**Estudio Versátil (México, Puebla)** | 2006 - 2022  
-- Dirección y coordinación de programas de enseñanza.
-- Gestión administrativa y operativa del centro.
-- Planificación y ejecución de eventos educativos y artísticos.
-
----
 
 ### **Proyectos Destacados**
 
@@ -78,6 +70,14 @@ Royal Academy of Dance, Reino Unido
 - Gestión del tiempo y organización.
 - Resolución de problemas y pensamiento crítico.
 - Liderazgo y coordinación de equipos.
+
+---
+
+#### **Fundadora y Coordinadora Académica**  
+**Estudio Versátil (México, Puebla)** | 2006 - 2022  
+- Dirección y coordinación de programas de enseñanza.
+- Gestión administrativa y operativa del centro.
+- Planificación y ejecución de eventos educativos y artísticos.
 
 ---
 
